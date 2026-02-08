@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OShagHennessy
+- 👋 Hi, I’m Lebohang
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning about particle physics
 - 💞️ I’m looking to collaborate on code
